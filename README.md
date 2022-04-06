@@ -1,8 +1,8 @@
 To make this function work:
 
-```shell git clone https://github.com/vaderjunior/wordle```
+``` git clone https://github.com/vaderjunior/wordle```
 
-Then run ```python python3 filter.py```
+Then run ``` python3 filter.py```
 
 input 1: Size of word
 input 2: Enter Letters that gave a green/yellow match in wordle(present letters), format letter1, letter2, etc
