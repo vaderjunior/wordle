@@ -15,9 +15,9 @@ abscent=[]
 a_len=0
 while i==1:
 
-    present_add=[x for x in input('Enter words present').split(', ') ]
+    present_add=[x for x in input('Enter letters present').split(', ') ]
     present.extend(present_add)
-    abscent_add=[x for x in input('Enter words abscent').split(', ') ]
+    abscent_add=[x for x in input('Enter letters abscent').split(', ') ]
     abscent.extend(abscent_add)
 
     for words in reduced:
